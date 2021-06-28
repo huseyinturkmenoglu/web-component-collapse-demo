@@ -1,10 +1,10 @@
 # WebComponent Collapse Example
 
-This example is about basic Web Component. I created for learning web compnent.
+This example is about Web Component. I created for learning web compnent.
 
 - There isn't any third party 🙃
 - You don't need npm etc 🤠
-- 🤜 You can download or fork for anything 🤛
+- 🤜 You can download or fork for everything 🤛
 
 ## Learning Source 🧐:
 - [An Introduction To Web Components](https://css-tricks.com/an-introduction-to-web-components/)
